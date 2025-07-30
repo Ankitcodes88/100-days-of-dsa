@@ -1,0 +1,12 @@
+Day 2 – July 30, 2025
+
+📘 Topic: Pseudocode & Flowcharts
+
+✅ Learned:
+- How to write pseudocode (step-by-step logic)
+- Flowcharts and their symbols (start, input, output, process, etc.)
+- Why flowcharts and pseudocode are used before real code
+
+📝 Examples done on paper:
+- Adding two numbers
+- ATM withdrawal flowchart
